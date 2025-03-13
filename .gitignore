@@ -172,3 +172,4 @@ cython_debug/
 
 # Deep Learning Metafiles
 Model/best_model.pth
+best_bifpn_model.pth
